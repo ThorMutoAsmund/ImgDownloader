@@ -1,0 +1,7 @@
+photos/
+photos2/
+__pycache__/
+*.pyc
+USER_MANUAL.html
+.venv/
+venv/
